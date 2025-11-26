@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Section subtitle
     text: >
-      bOM DIA!
+      QUERO CAFÉ!
     actions:
       - label: See open positions
         url: /
