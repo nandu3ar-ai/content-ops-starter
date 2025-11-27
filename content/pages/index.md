@@ -4,12 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Controle e organização financeira que sua empresa precisa.
+      text: Visibilidade financeira para melhor tomada de decisão.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Controle Financeiro Total
     text: >
-      Serviço 100% terceirizado, sem burocracia de funcionarios. Atenção e proatividade a todo momento!
+      Serviço de contas a pagar, receber, tesouraria, relatórios e suporte especialistas.
     actions:
       - label: Get started
         altText: ''
