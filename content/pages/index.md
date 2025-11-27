@@ -11,7 +11,7 @@ sections:
     text: >
       Serviço de contas a pagar, receber, tesouraria, relatórios e suporte especialistas.
     actions:
-      - label: Get started
+      - label: Fale com a gente!
         altText: ''
         url: /
         showIcon: false
@@ -20,15 +20,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
