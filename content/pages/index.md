@@ -52,12 +52,10 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: Redução de custos de até 60%
+        subtitle: Eficiência financeira real
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Você economiza com equipe, estrutura, ferramentas e treinamento. Com o BPO, os custos caem enquanto a qualidade e a velocidade sobem.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -80,12 +78,10 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: 24/7 de operação contínua
+        subtitle: Suporte e execução sem interrupções
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Garantimos processos funcionando o tempo todo, com monitoramento constante, evitando atrasos, gargalos e garantindo mais confiabilidade ao seu negócio.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -105,12 +101,10 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: 80% menos tarefas operacionais
+        subtitle: Produtividade ampliada
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Com automação e rotinas otimizadas, sua empresa reduz drasticamente o tempo gasto em atividades repetitivas e ganha foco no que realmente importa: crescimento e estratégia.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
